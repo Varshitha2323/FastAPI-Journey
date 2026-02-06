@@ -39,12 +39,12 @@ A functional API that manages a dictionary-based database of books.
    ```bash
    git clone [https://github.com/YOUR_USERNAME/FastAPI-Journey.git](https://github.com/YOUR_USERNAME/FastAPI-Journey.git) ```
 
-2.**Create a Virtual Environment**:
-  python -m venv .venv 
-  source .venv/Scripts/activate  # For Windows
+ 2.**Create a Virtual Environment**:
+   python -m venv .venv 
+   source .venv/Scripts/activate  # For Windows
 
-3.**Install Dependencies**:
-  pip install fastapi
+ 3.**Install Dependencies**:
+   pip install fastapi
 
-4.**Run the server**:
-  python -m uvicorn main:app --reload
+ 4.**Run the server**:
+   python -m uvicorn main:app --reload
